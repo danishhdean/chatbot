@@ -1,6 +1,8 @@
-#🎓 University FAQ Chatbot
+#University FAQ Chatbot
+
 📝 Overview
 This project implements a rule-based University FAQ Chatbot using Python and the spaCy NLP library. It’s designed to answer frequently asked questions about university life 🎒—like admissions, courses, fees, and library services—by recognizing user intent and responding with helpful guidance 💬.
+
 
 ✨ Features
 🧠 Natural Language Processing: Utilizes spaCy to tokenize, lemmatize, and clean up user input.
@@ -10,6 +12,7 @@ This project implements a rule-based University FAQ Chatbot using Python and the
 💻 Interactive Interface: Simple command-line experience for real-time chatting.
 
 🛠️ Extensible FAQ System: Easily customizable intent-response structure for scaling across more topics.
+
 
 💬 Interact with the Chatbot
 Type a question like:
